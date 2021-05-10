@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Valiant</string>
+    <string name="google">Google</string>
+    <string name="facebook">Facebook</string>
+    <string name="login_via">Login Via</string>
+    <string name="or">Or</string>
+    <string name="facebook_app_id">2746920022250053</string>
+    <string name="fb_login_protocol_scheme">fb2746920022250053</string>
+    <string name="hi_guest">HI, Guest</string>
+    <string name="no_quotes">No Quotes Available</string>
+    <string name="feeling_suicidal">Feeling Suicidal ?</string>
+    <string name="feeling_suicidal_description"><b>In the case of emergency:</b>\n  •Call 911\n  •Go to the Emergency Room of your local hospital
+    \n\n<b>If you or someone you know is having thoughts of suicide, contact the Mental Health Mobile Crisis Team (available 24/7):</b>
+    \n•(902) Mental Health Mobile Crisis Team (MHMCT)
+429-8167 or 1 (888) 429-8167 (Toll Free).
+        \n\nThe Mental Health Mobile Crisis Team (MHMCT) offers province-wide intervention and short-term crisis management for those in distress.</string>
+    <string name="not_at_all">Not at all</string>
+    <string name="several_days">Several days</string>
+    <string name="the_result">The Result</string>
+    <string name="you_have">You Have</string>
+    <string name="calculating_results">Calculating Results..</string>
+    <string name="login_to_save_your_data">Login To Save Your Data</string>
+    <string name="logout">Logout</string>
+    <string name="asses_my_anxiety_history">Asses My Anxiety History</string>
+    <string name="assess_my_nanxiety">Assess My \nAnxiety</string>
+    <string name="tools_n_amp_exercises"><![CDATA[Tools\n& Exercises]]></string>
+    <string name="de_catastrophizing">DE catastrophizing</string>
+    <string name="exposure_therapy">Exposure Therapy</string>
+    <string name="challenging_negative_thoughts">Challenging Negative Thoughts</string>
+    <string name="_5_4_3_2_1_coping_technique">5–4–3-2-1 Coping Technique</string>
+    <string name="next">Next</string>
+    <string name="done">Done</string>
+    <string name="instructions">Instructions</string>
+    <string name="no_exercises_found">No exercises found</string>
+    <string name="history_of">History Of</string>
+    <string name="breathing_exercise">Breathing Exercise</string>
+</resources>
